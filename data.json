@@ -1,0 +1,29 @@
+{
+	"users" : 
+	[
+		{
+			"absensi" : 
+			[
+				"2024-01-19 05:03:00",
+				"2024-01-19 05:25:59",
+				"2024-01-19 06:12:46"
+			],
+			"nama" : "Akbar Dzikri",
+			"nim" : "14523065",
+			"password" : "14523065",
+			"tugas" : 
+			{
+				"Listrik Statis" : 
+				{
+					"deadline" : "2024-01-20",
+					"matkul" : "Fisika Dasar"
+				},
+				"Tugas Manipulasi Array Dinamis" : 
+				{
+					"deadline" : "2024-02-16",
+					"matkul" : "Algoritma Pemrograman"
+				}
+			}
+		}
+	]
+}
